@@ -2,7 +2,8 @@
 
 ### *Machine Learning Engineer* 
 
-🌱 I’m currently learning Machine Learning, AI 
+🌱 I’m currently learning Machine Learning, AI
+
 ✨ [E-Mail] pke0730@naver.com  
 ✏️ <I>[Velog](https://velog.io/@pke0730)</I>    
 
